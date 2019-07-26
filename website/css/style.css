@@ -13,9 +13,7 @@ body{
     overflow:hidden;
 }
 
-.container h1{
-    color: black;
-}
+
 
 #main-header{
     background-color:coral;
@@ -47,7 +45,7 @@ body{
 }
 
 #showcase{
-    background-image:url('../imagees/showcase.jpg');
+    background-image:url('../images/showcase.jpg');
     background-position: center right;
     min-height:300px;
     margin-bottom:30px;
